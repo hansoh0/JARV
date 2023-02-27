@@ -1,4 +1,4 @@
-This is a website completed for a HTML/CSS class.
+This is a website completed for a fundamentals class.
 
 This website was created to tier my favorite Jarv songs as well as give a little background on the artist.
 
